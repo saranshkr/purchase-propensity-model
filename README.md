@@ -1,1 +1,1 @@
-# customer-propensity-model
+# customer-purchase-propensity-model
