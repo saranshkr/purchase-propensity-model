@@ -1,2 +1,2 @@
 # Dataset folder
-dataset
+dataset/*
