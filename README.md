@@ -7,7 +7,7 @@ Propensity refers to the likelihood of someone doing something. A propensity mod
 
 In this scenario, the dataset consists of a one-day summary of details of user behavior on a fictional website. Based on this behavior (eg. signed in, clicked on account page etc), the model learns to predict if the user finally placed an order on the website.
 
-This model can then be used to make predictions on unseen data (test sample) and decide if a user is likely to order from the website. The likelihood estimate will help focus marketing efforts selectively on the more valuable prospects, thus cutting down costs and optimizing profits.
+I then trained this model using the Gaussian Naive Bayes algorithm, to make predictions on unseen data (test sample) and decide if a user is likely to order from the website. The likelihood estimate will help focus marketing efforts selectively on the more valuable prospects, thus cutting down costs and optimizing profits.
 
 I used this [Kaggle dataset](https://www.kaggle.com/benpowis/customer-propensity-to-purchase-data) to train the propensity predictor model. The field names are intuitive and have additional explanatory descriptions provided. 
 
